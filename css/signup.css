@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin : 0;
+    box-sizing: border-box;
+    font-size: large;
+}
+body{
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+    margin-top: 90px;
+}
+.form-control{
+    margin: 2 2 2 2;
+    padding: 2 2 2 2;
+}
+.modal-title{
+    font-size: 28px;
+    text-decoration: underline;
+}
+.modal-content{
+    line-height: 70px;
+    margin : 15 15 15 15;
+}
+.border{
+    position: fixed;
+    color:black;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgb(155, 151, 151);
+}
+.modal-body{
+    line-height: 70px;
+}
+#signup-form{
+    line-height: 50px;
+}
+.input-group form-group{
+    margin-bottom: 40px;
+    display:block;
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    margin:10 10 10 10;
+    padding:10 10 10 10;
+    background-color: rgb(194, 191, 191);
+}
+.form{
+    line-height: 40px;
+    font-size: larger;
+}
+.input-group form-group{
+    line-height: 30px;
+}
+.modal-footer{
+    font-size: 20px;
+    font-weight: bold;
+    background-attachment: fixed;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
